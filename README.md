@@ -1,3 +1,7 @@
+**DEPRRECATED**
+
+**With upgrades to the Bitcoin Cash network, bchd is no longer a compatible node software as of May 15th 2023.**
+
 A bchd rpc client for browsers using grpc/grpc-web 
 
 This package provides a simple gRPC client for connecting web applications to 
